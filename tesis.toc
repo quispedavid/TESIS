@@ -4,3 +4,18 @@
 \contentsline {chapter}{\numberline {3}Cascadas atmosféricas y efecto Cherenkov}{13}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Cascadas atmosféricas}{13}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Efecto Cherenkov}{15}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Técnicas de detección}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Directas}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Indirectas}{18}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Detectores Cherenkov}{19}{subsection.4.2.1}%
+\contentsline {chapter}{\numberline {5}Decaimiento del muón y espectro de Michel}{21}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Decaimiento del muón}{21}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Espectro de Michel}{23}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Observatorios y colaboraciones que usan WCD's}{25}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Observatorios}{25}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}LHAASO (The Large High Altitude Air Shower Observatory)}{25}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}HAWC (High Altitude Water Cherenkov)}{26}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Pierre Auger}{26}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Colaboraciones SWGO y LAGO}{26}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Colaboración SWGO (Southern Wide-field Gamma-ray Observatory)}{26}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Colaboración LAGO (Latin American Giant Observatory)}{27}{subsection.6.2.2}%

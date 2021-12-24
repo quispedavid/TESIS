@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.12)  23 DEC 2021 15:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.12.8)  24 DEC 2021 09:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -361,7 +361,9 @@ LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
  (./CAPITULOS/INTRODUCCION.aux)
 (./CAPITULOS/RAYOS_COSMICOS.aux)
-(./CAPITULOS/CASCADAS_ATMOSFERICAS_EFECTO_CHERENKOV.aux))
+(./CAPITULOS/CASCADAS_ATMOSFERICAS_EFECTO_CHERENKOV.aux)
+(./CAPITULOS/TECNICAS_DETECCION.aux) (./CAPITULOS/DECAIMIENTO_MUON_MICHEL.aux)
+(./CAPITULOS/OBSERVATORIOS_COLABORACIONES.aux))
 \openout1 = `tesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -480,7 +482,7 @@ LaTeX Info: Redefining \nameref on input line 25.
 \openout2 = `CAPITULOS/CARATULA.aux'.
 
 (./CAPITULOS/CARATULA.tex
-<FIGURAS/Logo_unsa.png, id=24, 550.4565pt x 692.5875pt>
+<FIGURAS/Logo_unsa.png, id=84, 550.4565pt x 692.5875pt>
 File: FIGURAS/Logo_unsa.png Graphic file (type png)
 <use FIGURAS/Logo_unsa.png>
 Package pdftex.def Info: FIGURAS/Logo_unsa.png  used on input line 9.
@@ -507,16 +509,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] (./tesis.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+
+[3])
 \tf@toc=\write4
 \openout4 = `tesis.toc'.
 
-[3]
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
- [4
-
-] (./tesis.lof
+ [4] (./tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -525,25 +525,38 @@ Overfull \hbox (19.08409pt too wide) in paragraph at lines 4--4
 ].[][] [][]  
  []
 
+
+Overfull \hbox (63.75966pt too wide) in paragraph at lines 7--7
+ [][] [][][]\T1/ptm/m/n/12 Frente de on-da có-ni-co de los fo-to-nes pro-du-ci-
+dos por efec-to Che-ren-kov [[]].[][] [][]  
+ []
+
+[5
+
+]
+Overfull \hbox (55.7305pt too wide) in paragraph at lines 16--16
+ \T1/ptm/m/n/12 jo) me-dian-te la cons-truc-ción de un ob-ser-va-to-rio en el h
+e-mis-fe-rio sur [[]].[][] [][]  
+ []
+
 )
 \tf@lof=\write5
 \openout5 = `tesis.lof'.
 
- [5]
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [6]
 \openout2 = `CAPITULOS/INTRODUCCION.aux'.
 
  (./CAPITULOS/INTRODUCCION.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [6
-
-
-]
 Cap\'{\i }tulo 1.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7])
+ [7
+
+
+])
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
 
@@ -560,7 +573,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<FIGURAS/ESPECTRO_RC.png, id=97, 679.53876pt x 497.86pt>
+<FIGURAS/ESPECTRO_RC.png, id=204, 679.53876pt x 497.86pt>
 File: FIGURAS/ESPECTRO_RC.png Graphic file (type png)
 <use FIGURAS/ESPECTRO_RC.png>
 Package pdftex.def Info: FIGURAS/ESPECTRO_RC.png  used on input line 8.
@@ -581,7 +594,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 3.
-<FIGURAS/CASCADA_LONGITUDINAL.png, id=114, 728.7225pt x 531.9875pt>
+<FIGURAS/CASCADA_LONGITUDINAL.png, id=221, 728.7225pt x 531.9875pt>
 File: FIGURAS/CASCADA_LONGITUDINAL.png Graphic file (type png)
 <use FIGURAS/CASCADA_LONGITUDINAL.png>
 Package pdftex.def Info: FIGURAS/CASCADA_LONGITUDINAL.png  used on input line 7
@@ -593,49 +606,191 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 7722) has occurred while \output is active []
 
- [13])
+ [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
  [14 <./FIGURAS/CASCADA_LONGITUDINAL.png>]
+<FIGURAS/EFECTO_CHERENKOV.png, id=240, 589.20125pt x 546.04pt>
+File: FIGURAS/EFECTO_CHERENKOV.png Graphic file (type png)
+<use FIGURAS/EFECTO_CHERENKOV.png>
+Package pdftex.def Info: FIGURAS/EFECTO_CHERENKOV.png  used on input line 24.
+(pdftex.def)             Requested size: 265.1381pt x 245.71573pt.
+)
 LaTeX Info: Redefining \. on input line 36.
 LaTeX Info: Redefining \% on input line 36.
- [15] (./tesis.bbl
+ [15 <./FIGURAS/EFECTO_CHERENKOV.png>]
+\openout2 = `CAPITULOS/TECNICAS_DETECCION.aux'.
+
+
+(./CAPITULOS/TECNICAS_DETECCION.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [16
 
 
+
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
+Cap\'{\i }tulo 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+
+[18]
+<FIGURAS/TANQUE_HAWC.png, id=269, 855.195pt x 473.77pt>
+File: FIGURAS/TANQUE_HAWC.png Graphic file (type png)
+<use FIGURAS/TANQUE_HAWC.png>
+Package pdftex.def Info: FIGURAS/TANQUE_HAWC.png  used on input line 12.
+(pdftex.def)             Requested size: 256.56049pt x 142.1321pt.
+<FIGURAS/TANQUE_CHERENKOV.png, id=272, 549.05125pt x 458.71375pt>
+File: FIGURAS/TANQUE_CHERENKOV.png Graphic file (type png)
+<use FIGURAS/TANQUE_CHERENKOV.png>
+Package pdftex.def Info: FIGURAS/TANQUE_CHERENKOV.png  used on input line 22.
+(pdftex.def)             Requested size: 274.52495pt x 229.35631pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [19 <./FIGURAS/TANQUE_HAWC.png>]
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [20 <./FIGURAS/TANQUE_CHERENKOV.png>]
+\openout2 = `CAPITULOS/DECAIMIENTO_MUON_MICHEL.aux'.
+
+
+(./CAPITULOS/DECAIMIENTO_MUON_MICHEL.tex
+Cap\'{\i }tulo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+<FIGURAS/MUON_DECAY.png, id=289, 341.02406pt x 204.765pt>
+File: FIGURAS/MUON_DECAY.png Graphic file (type png)
+<use FIGURAS/MUON_DECAY.png>
+Package pdftex.def Info: FIGURAS/MUON_DECAY.png  used on input line 11.
+(pdftex.def)             Requested size: 221.66301pt x 133.09566pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [21
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [22 <./FIGURAS/MUON_DECAY.png>]
+<FIGURAS/ESPECTRO_MICHEL_SIMULADO.png, id=310, 857.2025pt x 453.695pt>
+File: FIGURAS/ESPECTRO_MICHEL_SIMULADO.png Graphic file (type png)
+<use FIGURAS/ESPECTRO_MICHEL_SIMULADO.png>
+Package pdftex.def Info: FIGURAS/ESPECTRO_MICHEL_SIMULADO.png  used on input li
+ne 25.
+(pdftex.def)             Requested size: 385.73756pt x 204.16086pt.
+)
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [23 <./FIGURAS/ESPECTRO_MICHEL_SIMULADO.png>]
+\openout2 = `CAPITULOS/OBSERVATORIOS_COLABORACIONES.aux'.
+
+
+(./CAPITULOS/OBSERVATORIOS_COLABORACIONES.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [24
+
+
+
+]
+Cap\'{\i }tulo 6.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+<FIGURAS/TANQUE_PIERRE_AUGER.PNG, id=331, 367.3725pt x 366.61969pt>
+File: FIGURAS/TANQUE_PIERRE_AUGER.PNG Graphic file (type png)
+<use FIGURAS/TANQUE_PIERRE_AUGER.PNG>
+Package pdftex.def Info: FIGURAS/TANQUE_PIERRE_AUGER.PNG  used on input line 14
+.
+(pdftex.def)             Requested size: 220.42519pt x 219.97351pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+[26]
+<FIGURAS/MAPEO_SWGO.png, id=341, 800.9925pt x 488.82625pt>
+File: FIGURAS/MAPEO_SWGO.png Graphic file (type png)
+<use FIGURAS/MAPEO_SWGO.png>
+Package pdftex.def Info: FIGURAS/MAPEO_SWGO.png  used on input line 25.
+(pdftex.def)             Requested size: 360.4433pt x 219.96977pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+[27 <./FIGURAS/TANQUE_PIERRE_AUGER.PNG>])
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+ [28 <./FIGURAS/MAPEO_SWGO.png>]
+(./tesis.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
 []\T1/ptm/m/n/12 De Lu-go, B. (2011).  Cien años de Ra-yos Cós-mi-cos).
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
- [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+[29
+
+
+]
+Underfull \hbox (badness 1400) in paragraph at lines 79--82
+[]\T1/ptm/m/n/12 Olive, K. (2014).  Re-view of par-ti-cle phy-sics.  \T1/ptm/m/
+it/12 Chi-ne-se Phy-sics C\T1/ptm/m/n/12 ,
+ []
+
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+[30])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [31]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./tesis.aux (./CAPITULOS/CARATULA.aux)
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
- (./CAPITULOS/INTRODUCCION.aux)
-(./CAPITULOS/RAYOS_COSMICOS.aux)
-(./CAPITULOS/CASCADAS_ATMOSFERICAS_EFECTO_CHERENKOV.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+
+(./CAPITULOS/INTRODUCCION.aux) (./CAPITULOS/RAYOS_COSMICOS.aux)
+(./CAPITULOS/CASCADAS_ATMOSFERICAS_EFECTO_CHERENKOV.aux)
+(./CAPITULOS/TECNICAS_DETECCION.aux) (./CAPITULOS/DECAIMIENTO_MUON_MICHEL.aux)
+(./CAPITULOS/OBSERVATORIOS_COLABORACIONES.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: C50E83B5876DA14E2EEFBE607920B7E0;312.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
+(rerunfilecheck)             Checksum: D2C33F19F885E0E027073CD8019C2DEE;1486.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 8900 strings out of 481239
- 136809 string characters out of 5920376
- 567064 words of memory out of 5000000
- 23906 multiletter control sequences out of 15000+600000
- 566518 words of font info for 68 fonts, out of 8000000 for 9000
+ 9086 strings out of 481239
+ 140677 string characters out of 5920377
+ 569065 words of memory out of 5000000
+ 24008 multiletter control sequences out of 15000+600000
+ 570965 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,7n,35p,872b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,7n,35p,1197b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
@@ -646,10 +801,10 @@ sfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (17 pages, 1426066 bytes).
+Output written on tesis.pdf (31 pages, 2570178 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 426 PDF objects out of 1000 (max. 8388607)
+ 360 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
