@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{epigraph}
+\usepackage{booktabs}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage{lipsum}
+\renewcommand{\baselinestretch}{2}
+\renewcommand{\tablename}{Tabla}
+\AtBeginDocument{\renewcommand\tablename{Tabla}}
+\usepackage[left=3cm,right=2.5cm,top=3cm,bottom=3cm]{geometry}
+\hypersetup{colorlinks,linkcolor={blue},citecolor={blue},urlcolor={red}} 
+\title{Calibración de un Prototipo de Detector Cherenkov analizando el Decaimiento del Muón}
+\date{Mayo 2021}
+\author{Quispe Calloapaza, David Saúl y Quispe Mamani, Sonia Diana}
+
+\begin{document}
+	\include{CAPITULOS/CARATULA}
+	
+	\tableofcontents
+	
+	\listoffigures
+	
+	\include{CAPITULOS/INTRODUCCION}
+	
+	\include{CAPITULOS/RAYOS_COSMICOS}
+	
+	\include{CAPITULOS/CASCADAS_ATMOSFERICAS_EFECTO_CHERENKOV}
+	
+	\bibliographystyle{apalike}
+	\bibliography{bibliografia.bib}
+\end{document}

@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tesis.aux
+A level-1 auxiliary file: CAPITULOS/CARATULA.aux
+A level-1 auxiliary file: CAPITULOS/INTRODUCCION.aux
+A level-1 auxiliary file: CAPITULOS/RAYOS_COSMICOS.aux
+A level-1 auxiliary file: CAPITULOS/CASCADAS_ATMOSFERICAS.aux
+The style file: apalike.bst
+Database file #1: bibliografia.bib
+Warning--entry type for "Vazquez" isn't style-file defined
+--line 1 of file bibliografia.bib
+Warning--entry type for "PEREZY2009" isn't style-file defined
+--line 234 of file bibliografia.bib
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            508 strings with 4458 characters,
+and the built_in function-call counts, 1512 in all, are:
+= -- 148
+> -- 41
+< -- 6
++ -- 12
+- -- 12
+* -- 102
+:= -- 279
+add.period$ -- 13
+call.type$ -- 5
+change.case$ -- 30
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 67
+empty$ -- 111
+format.name$ -- 19
+if$ -- 297
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 26
+num.names$ -- 15
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 31
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 90
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 0
+while$ -- 13
+width$ -- 0
+write$ -- 60
+(There were 2 warnings)
